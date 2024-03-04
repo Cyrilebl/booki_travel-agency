@@ -1,7 +1,7 @@
 # Booki
 
 <img alt="Simulation du site Booki" src="https://github.com/Patariom/Booki/blob/main/220208_Booki_mockup.png?raw=true">
-<img alt="Simulation du site Booki" src="https://github.com/Cyrilebl/booki_travel-agency/main/220208_Booki_mockup.png?raw=true">
+<img alt="Simulation du site Booki" src="https://github.com/Cyrilebl/booki_travel-agency/blob/main/220208_Booki_mockup.png?raw=true">
 
 ## English
 
