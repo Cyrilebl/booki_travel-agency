@@ -1,7 +1,7 @@
 :root {
   --main-color: #0065fc;
-  --main-background: rgba(242, 242, 242, 0.4);
-  --background: rgb(241, 241, 241);
+  --background: rgba(242, 242, 242, 0.5);
+  /* --background: rgb(241, 241, 241); */
   --light-blue: #e0eaff;
   --black: #000000;
   --white: #ffffff;
@@ -16,7 +16,7 @@
 
 body {
   font-family: "Raleway", sans-serif;
-  background-color: var(--main-background);
+  background-color: var(--white);
 }
 
 h1 {
@@ -75,7 +75,7 @@ header img {
 }
 
 .search p {
-  margin-bottom: 25px;
+  margin-bottom: 30px;
 }
 
 .searchbar {
@@ -212,7 +212,7 @@ header img {
 #result {
   margin-left: 8%;
   margin-right: 8%;
-  margin-bottom: 50px;
+  margin-bottom: 70px;
   display: grid;
   grid-template-columns: 65% 1fr;
   grid-template-areas: "left right";
@@ -220,7 +220,7 @@ header img {
 }
 
 #result h1 {
-  margin-bottom: 30px;
+  margin-bottom: 35px;
 }
 
 .result__left,
@@ -366,11 +366,11 @@ header img {
 #activities {
   margin-left: 8%;
   margin-right: 8%;
-  margin-bottom: 60px;
+  margin-bottom: 120px;
 }
 
 #activities h1 {
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 
 .activities__grid {
